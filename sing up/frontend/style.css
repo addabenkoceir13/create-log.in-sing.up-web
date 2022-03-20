@@ -1,0 +1,30 @@
+.box-1 h2 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    font-size: 45px;
+    font-weight: 900;
+    color: #407BFF;
+    margin: 10px 0;
+}
+
+.box-1 {
+    width: 250px;
+    padding: 10px;
+}
+
+.redios input {
+    float: left;
+}
+
+.box-2 img {
+    margin-top: 50px;
+}
+
+@media only screen and (max-width: 990px) {
+    body {
+        background-color: red;
+    }
+    .box-2 img {
+        display: none;
+    }
+}
