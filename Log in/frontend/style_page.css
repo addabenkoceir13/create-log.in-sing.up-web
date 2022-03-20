@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Montserrat:wght@200&family=Open+Sans:ital@1&display=swap');
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 800px;
+}
+
+.body-2 {
+    background: #EAEAE5;
+    font-family: 'Hurricane', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.conter {
+    padding: 20px;
+    width: 800px;
+    margin: 0;
+}
+
+.box-1 {
+    background-color: #fefefe;
+    padding: 30px;
+}
+
+.box-1 h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    color: #2234B0;
+}

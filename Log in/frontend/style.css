@@ -1,0 +1,63 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    overflow: hidden;
+}
+
+.center-box {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 700px;
+    /* max-width: 900px; */
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    font-size: 45px;
+    font-weight: 900;
+    color: #407BFF;
+    margin: 20px 0;
+}
+
+.box-1 {
+    /* width: 600px; */
+    padding: 80px 40px;
+    background-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(5px);
+    border-radius: 20px;
+    /* box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+                rgba(14, 30, 37, 0.32) 0px 2px 16px 0px; */
+}
+
+form label {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: #000;
+    font-weight: 400;
+}
+
+.box-1 a {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(64, 123, 255);
+    text-decoration: none;
+    font-weight: 600;
+    text-align: center;
+}
+
+.box-1 p {
+    text-align: left;
+    margin-top: 10px;
+    color: black;
+    font-weight: 600;
+}
+
+.box-1 .center1 {
+    text-align: center;
+    align-items: center;
+}
+
+img {
+    width: 100%;
+}
